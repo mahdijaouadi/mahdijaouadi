@@ -1,11 +1,6 @@
 # 👋 Hi there, I'm Mahdi Jaouadi
 
-🎓 Machine Learning Engineer & IT/Automation Student  
-📍 Based in Tunisia | 🌍 Passionate about AI, CI/CD automation, and intelligent systems
-
----
-
-## 🚀 About Me
+🚀 Machine Learning Engineer
 
 I'm a passionate Machine Learning Engineer and second-year IT engineering student at INSAT. My work bridges cutting-edge AI research and practical automation solutions—from self-healing CI/CD agents to intelligent stock trading bots. I thrive at the intersection of Reinforcement Learning, Natural Language Processing, and DevOps.
 
@@ -21,20 +16,7 @@ I'm a passionate Machine Learning Engineer and second-year IT engineering studen
 
 ---
 
-## 💼 Experience
-
-### 🛠️ Machine Learning Engineer @ AIDODEV *(Jan 2025 – Present)*
-- Built a self-healing agent for CI/CD pipelines using Langchain and LangGraph
-- Developed a verifier system for pipeline reliability
-- Applied ReAct method to improve decision-making
-- Created prompt-based pipeline generation agents
-
-### 📈 ML Engineer @ InfiniteBlocks *(Aug 2024 – Dec 2024)*
-- Built a stock trading RL agent outperforming S&P 500 (3× returns, 2018–2024)
-- Fine-tuned pre-trained deep learning models for finance applications
-
-### 🤖 ML Intern @ AIDODEV *(Jun 2024 – Jul 2024)*
-- Built a Retrieval-Augmented Generation (RAG) chatbot using LLMs
+As a Machine Learning Engineer at AIDODEV, I developed a self-healing agent for CI/CD pipelines using Langchain and LangGraph, alongside a reliability verifier and prompt-based pipeline generators. At InfiniteBlocks, I built a stock trading RL agent that tripled S&P 500 returns (2018–2024) and fine-tuned deep learning models for finance. I also created a RAG chatbot using LLMs during my internship at AIDODEV.
 
 
 ## 📫 Let's Connect
